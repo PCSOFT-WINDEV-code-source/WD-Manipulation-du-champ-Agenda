@@ -1,0 +1,269 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_PRINCIPALE
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_PRINCIPALE
+ identifier : 0x2b0bc2e726670ecd
+ internal_properties : CAAAAAgAAAB1juHbZOZLB46/NgANODcNwPxb9jzcFA4depoe7TpyEatGZ/29n5OcxafGH9UT45FQAazhEhRVGF1jZcm5Sp9tyhGaQxS04OgUqBtdSu+n5NXUvxOGFwAmkupZgREz63Gbl/+8uBmr4qPoevIPUogAtInIzAZ6lMIfozMH5kE8ffehtXPV0vTpGejwOLHMB88Hm+hKkj9zj3dP3ZX0G+0/bXmirUyI0jnXLlFHefhMa39SgEzLSb4qu2hZN1sSbtOCb7/bFl7ivy9IQsO5189cpntGMqZTuWN8XKSeWcLU+64TkCD7RR2JmLBCRqtPrTLxiQhvHkF1IJU34ecYeBCsX5Rf2PF6pm9ie2GxASX7oqlYynYaeZqp+2TVyc38P3j0Q2goCETziNCY+Ma4Im8jAYKc3d+iMhzdNYyBQR9/nb5AqZHcorhkk3MdHu1GhQJNHhoJPn3dgatMdKqpgatHyCh948rV3WheIErzgA3zZ1fFDT5XN8ehAoMBw4Rqq422nWoRTpB2w83TVofC37zfGCD0296QsRBnD7Lr/emkpqhImIEgb/lXQRFZ0LHuC6APbawBzZ35BvqPrrPy8YUg33OjflG7GRkdNlqyw1ev4PEv8mgW6ujx/kOQEYLbwzmWIZFuc3l7Xh5i/fsiVctjypbY29qlaUz8DK2wfQX6DA8uUJIYOMusQgdTA7iTCeoXopMkaIqqXZcX5uEbyvUOcoWkH8v/jx40qa4NxRC5gJvvURYZgym0oZfCrDDIEJDdsBuTcJCEaLcp4RNU/ekUQT1r4q+nNUC5aR3fnnj1oRmyyHEAMsaKpq0gGnNBDmDx
+ properties :
+  width : 786
+  height : 579
+  widthClient : 784
+  heightClient : 547
+ controls :
+  -
+    name : AGD_Agenda
+    identifier : 0x2b0bc2f52675449c
+    internal_properties : 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
+    properties :
+     x : 6
+     y : 28
+     width : 772
+     height : 483
+    type : 76
+    code_elements :
+     type_code : 107
+     p_codes : []
+  -
+    name : BTN_Fermer
+    identifier : 0x2b0bc304277e80c1
+    internal_properties : CAAAAAgAAAACKzeYqD2P2ZmU+92H5mWHwNP9LHMhWjSrfhApQYj7PQLpEx/WCneJXByg1syVsjt1ZdBGuyWNb3jWQPEKHXOPK8Z3LK3hcDhO5wX0dWTJFHGzA8t0zZjjw3tI6pGugwgK+Kct3vJws65HWVV+xAVoUVLc+bQSH+2uNoRvxqZFD2s36VWqjbzbtmJ1w6bruWvxlp22vJAn0tDwxLlkk9XyRLOFv3f9LwbKNS15LNA76i6P+IWZPXTuhSZDwiZHSIxpk5Hs3aqkU9eYoYYKulEADQy/x93SUAZ2kCOE1la+fnCTnYkEBGNoKAy37XtJDyUf7bQ0W107DZettowAF7aCSU0ojMSvzxYRRULu0Lj9Xg9fe4CtqRq6HXLpaupele114ccOJaACRFBOp0HpBB1xfta1BCZtjmMzep147kynbG46lxJn6j4FKtdHFNkRcyGBJUHtUUfSHeOoZD6pumueuPDovGaOl1e9DyQE64rCIONy6ucYHcUyVCbPVTgZ1aq+1lOoi2PYUbywGzP9xbM5BInDR7RX/dcOnfpRlK6+ZjmvCPvgu9WJtxEf4zKBeTBXaZcl9zm3u2PLLoFPjk2nPJMRjNGQR7/8v2stw8+RN9ACW3Qc9zRIRQgF1f+t/qYVmIAr57bwwh7NtCrmKuqYxM2bVw7UI11mP9qgbs9UvvR9UZdzMq79U1Y+VfYyljiXz6ccjpKZTeLpqWET131y+G7MJaEcXFLgpFpxP0K2cxWwpxPYe73qFlvWR36+RMckJar8aHPOQlRK6TW4GnMkqiPqBVIWvX011nDG6gazNQ7/+eMwrT+k5M+eJW7XC+EFhAeu/C3ipgxvDohWA06Au0Swow4ZzkwMPYDNCKQLEXeET3hNhGo4cdiUXHZyGNv48YOB4zhtG7PFJn/H9IwUlhlk4JfmdiywGpIdHR42jUccjDUnrTgmnU9VNy0yNIHq20bV3eo9KcJ15BmSEW+Zs8qdIHP1wqyPKPHFUHG+TZvlfJydxg==
+    properties :
+     x : 698
+     y : 517
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_INFORMATIONS
+    identifier : 0x2b0bc31c2868dd90
+    internal_properties : CAAAAAgAAADh/C/TWS0MyYvE+etgQS5c0gLJ7NKwOr0JK0sBU0arh0/C8qYwDyfyVwFiHlWBH7T2KmhUNF4S5nch4BpWjNFtXs0YXLN0X9kZ2meEmA6E4lfwoY0b6F8tBA9ciLjPOYnVY3p3aKJPqyULSZc0IZtAjSwX8WE7mUd0xzbEbz+DBUzTRAT228kWJGxMTSXLprP6YdDgys9RyuuqRTfJ6wupFGNyXscTD2q+YVQzwLsMEl9u4LG0cpKmN0X5N7MjoVsJHlFruyF9uDjb/lupzUF7M+ZDQ2+DMjPhaO3piJc7Ka/B3fmJ7gdf6FLrSDMvDA9giNmDyPdYrx46qjMLAVIFVXm6jzvbNumR03XPy1WMKJYPlxajoZyQCbuTn91QPUEbePWspn3pmm+aBOLaUzGG09TN67ieX4jaU2Itdwi1WzSd0sUzeUgMy+lZBqSqtVmbswDluifSfeR8IU6oMK0lExzMxM1tcKo5eP/eWAzKHmi8/6bDpCPvmJydWfvNKPU+wK76WsG4k8WFfMDlW+8esVel4TULheWxl51qe/uOOO7VQRczIiY6fyPY0ABs8d90mGGLpmrzJZAaLmJG9mHBAmM7ilVExf6t0WND7d6x1RgRgUu6ZebEZGrE84NKfOIhbls9l+VmXG7hC9oG0ewv55Qj5SyNcRgdCQ==
+    properties :
+     x : 6
+     y : 6
+     width : 772
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Nouveau_RENDEZVOUS
+    identifier : 0x2b0bc5a26127b91f
+    internal_properties : CAAAAAgAAABJGgFd+o/ESLFtYuiimbDHjkgaVd0QtP/u5GjETG77KXBdE9+qoDhmlfCTpkecII4kKjouOGSbQowExTZ1QVVzPBQhUSKt7H8T4wLwtT9z5soUTaL4VWC5bbN/Rmidi3ziFUL4roBqFhpngMjdbwR0LZl3b6PQ5Tvqo/iFuRdrFHtK8+ewcnwFiSA3ztNKsNzfjLPj4Ssnb3sKtve/OCiViycD9c2VfgWmEkE67gMv+CCCbiXMpcyFuh5Y6s7Ws9CoNEfuy2gju9WJ4+gCWE4llQxSwG4vGMJrSAwRc2sZRumsEbeMvyzQxEQeCFvRTfDjT9kp8yoRAYPM/6Ztm5T1+Mn/5EzZKK7kk95sjGuPQZPfOp2KvIDzsOpYK37/+rSY4APO7hoyIRVQQ/f0gfeRlErSxwkmsnHc2JDDtNpu5FWImt/JKkhW78hL/udW2dG/f/4jW961iCGbsOvtm64lM1OeYTXr25WIc2cpX2fhyAmvKv7ldcazfcW6Vy1UEnpaVlA0fGfgmbZukoIYwL0FSWMwRjYoIcHmY40Frx0gWFcFkIj/nje931QlyX437eGMMZiee4Cc7DIuElPG4+roBCWohNv67clqq2Kax69LwWiWGutY4SbmR1ZW6kN1jFaBwPPe53RaGObBC52AVho8uAUZK/fzawGUcCkCtLLW8+m3A23ycARWd14eCkkCXpuvgyab3oOUqk9KmDKziflZkZVoQiICZu3dupikj8Q8nCt83io6A08YtgnoMqj+B9rSeIclptfgeKxeCvtT7CXvcRE6TrYgTqEG974DRgvqKJz7cmfvhf9XB9YGV0NS7jd7Ig2gNerT7aAemiYVJkmlcrCAGpb/bIJYEKCDcxSh79Nk8anzjaALYKvSzCUE0Pc1ZL/PjFOjnUczKuAWcG+27WeJ86lKxHCauKTrgtc7/c3AmNZoXA2OVLVuOOV/8xVscBfkktsnt1KjL0y6jFXFBr+FG4Oe4smgYi/h2v0=
+    properties :
+     x : 6
+     y : 517
+     width : 100
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         // Variables locales
+         clNouveauRDV	est un agRendezVous
+         
+         // Ouverture de la fenêtre de saisie
+         SI Ouvre(FEN_FICHE_RENDEZVOUS,clNouveauRDV) = Vrai alors
+         	// Ajout du rendez-vous
+         	AgendaAjouteRendezVous(AGD_Agenda,clNouveauRDV)
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SAUVER
+    identifier : 0x2b0bca48834be3c8
+    internal_properties : CAAAAAgAAAC6bd5tZsHe014zZhe+pjnZ+/repo3Z3Anqo07eFOORTUo4Fi2uy69hCmn53sbpiwvyPQokxQObejk/Hs2uhmSnFsJlkubyXA8yJr3gfmA8ujIzdiwNbNMjsqeC/uTum02cURyyH3IhlODHldZoe7CSvQBTbnB/K/dvS++0to/GNLh4nNkgoBXkzD46bdE0TDg72Str48J30TDoFaPhfYDLlxuuKRRyAfuZcojXsSSWjTMF/+B32jDfsCe/gzxswoPuXCbUtdcuvAcJ29yvK/y1BP2fZ7HSN0CkdmeXZixam6NBND0QinZO91AKTQIjh4uhHs1Q3Wp+56d+qJnFf5pgL9Ux+wiGS6ej1xz6CD9RGCpMfJart3G97FxMRpVjEKP4VpXYa03O8obhJ2BKHrb/rQt+qh3blaFWkwoLAgqWGAkQyOCzlzvUsGEM8juG+uZKiYmqPs2Q4gdYn5o9GcD3QpHckQ6Svxin47UcnNeLYyV+vlICCqwoeemgvnLgQ+JzBnW6LzmGSsoBuUvBgYTkqTxGhCW3Hd6SCHVEliXGf0VGw40Y/4c7Yoh/5q0Pm4Xlf/RcYiWRaIkWp+iL60SPeuKpORBAC7I5nQGU0+KQfxlqEuFx7A92KriF6u24KzCMsMe0XGUBLm2HfqmmSeUQqpj2iI+d9rl5NUBm/Tf4h8tovI+PYtZM8TMrd7JZmknWXM9DyKLR5PKO3r+D5xH9YjtAALzd+Ngq5KBhKFx1XcPQ3/32BXztptZ5PMakV5atLIDCfjEV5l3OluE1ZvqQL8pGDX+oTt3R97TmYUnAemtLYWeGTJCn1KglK17BsKGwQ2YKUqeGJhLRFptYkti1jfFI+dBxOieBdYTH1vaWzSAJudiBmdqmeqrHRFT9I0PtfqCg7kmmWSYv4CukYv8jZ5liMkc1/0bDfrUR6qwavZxmBViU2Cd5WmJkuS9TXOLiZTLz5p/lzgIP3uRdcQP6WTJG4WT4+fueNs70n63L
+    properties :
+     x : 112
+     y : 517
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACEutynWrQFIuEUMLMeNrV2XwIK2abmQLDBRqItBB79AUyKnZMOthXIcHE+VfNC9i9oHPekkaEea4qmm03x9IAXcje/3lmyAk6T+Klow+5I2s2TkD6UxBM=
+        code : |1-
+         // Variables locales
+         tabRendezVous		 		est un tableau de agRendezVous
+         sContenuSauvegarde	est une chaine
+         
+         // Récupération de tous les rendez-vous
+         tabRendezVous = AgendaListeRendezVous(AGD_Agenda)
+         
+         // Sérialisation des rendez-vous
+         Sérialise(tabRendezVous,sContenuSauvegarde,psdXML)
+         
+         // Sauvegarde effective
+         fSauveTexte(sFichierSauvegarde,sContenuSauvegarde)
+         
+         // Message à l'utilisateur
+         Info(<§$0000§>)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_CHARGER
+    identifier : 0x2b0bca7c8b68afad
+    internal_properties : CAAAAAgAAADI4lhHg/wS1bnYzAbVEAgswq/jjHuDrzR2YciGFK+7Yviakc8tORZGfLUTMYdnV+B2ZjFbeear+eRD8uGnnTSP+Bh8/EBwVoJWU4jP00Dh5lfqIJiuKjsofIJ9z0scM9/ZB6Ds9SGwBSzY/gnfYxHW6LR6TKbZLzfDQAgA32GRdxfBtDBTZvwJM423/yuCflAoxNchMR5mbPbbyzZtyMYnYFYztZJkOKO0d+E0/HvhzwqHDaS6ZuRYvsNFmgeyUVtT59FE4dHGo+XPjQW8sSQBQVQzcqvEFfPu3g7Js2kE5kK9s5cwdppO4SOJjHw45aKGCz/sOQYnb5ZL5eYB7MIpwYltcjrvmOg0vPqlfEELcUJelGYOJJFjMFbWVRfsvnFHy8ncrjXbprh2HonVBdJzUxDNGzyw813CoSKHgvFcpjwerdDfKerH6oCTtmb/c3KTIDVk8hU+C+TXFGRogfmaH+Wtezs8CHYvMh67evglaT81RtEiQ7qMejuKKgbJGwvcnvLJZQTqoU6MDZ/VtCvMv+189/JplaaIpIDxuaVZXIZ68uul5W/suY28lXMSaylexJrHn0YvJyLD9+izuFRFJ55qBLUrJ+/1KX6Jv8InqdEOHrnA/fIQK6Z++xjs/AvF1aVxW4j4PKeVMxJj8YjXKzYU2d8aPfVgicx6WRmsfBmz4botKIISPiIocvjVEVTr7c5792lVEIJggSlVklOl8izOyXqvefvaljDR24WiXZ/oGgMfbhjEle5D2XhwD8XwAIypvzYyR117frdY2IFoom+7hEglZCp0Kd0K7VIT3KbX6wO8dEZcMZ6x4F+DNPT2Mjpd7GouIo2rJ5x58o+OkOOToSAnb76rL9tWyouJNFVpwedWssBs6Cq0dDz2Y1HHQbv4abhje9KMOKF6L2lVzVLyXZEDXH4fgCtt1p9+doEQXvp66rYr+dJBRkzHJFKGbpMAh3Z5dVzGbCK7r2JdVGNQ3OEupWwtoc/7jsg5KFrHSw==
+    properties :
+     x : 198
+     y : 517
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAACU85MzyZcSEQqxT8Aled/OWv+9g1qaG+m3cN43WXoKu+PBkeK3xiANXxzDzMaVGYG6S6sg/Y32SjhzN+WZCsL0OKrKzkpenhnZXyeeOTDqAzdUMSyr4NFXk8RK8yYRN06f9w0ndhdNn5U7X9CHIA==
+        code : |1-
+         // Variables locales
+         tabRendezVous		 	est un tableau de agRendezVous
+         sContenuSauvegarde		est une chaine
+         RendezVousEnCours		est un agRendezVous
+         
+         // Est-ce qu'un fichier de sauvegarde existe
+         SI fFichierExiste(sFichierSauvegarde) = faux alors
+         	Info(<§$0001§>)
+         	RETOUR
+         FIN
+         
+         // Suppression du contenu de l'agenda
+         SI Ouinon(non,<§$0003§>) = Oui alors
+         	AgendaSupprimeTout(AGD_Agenda)
+         FIN
+         
+         // Chargement de la sauvegarde
+         sContenuSauvegarde = fChargeTexte(sFichierSauvegarde)
+         
+         // Désérialisation des rendez-vous
+         DeSérialise(tabRendezVous,sContenuSauvegarde,psdXML)
+         
+         // Parcours des rendez-vous pour ajouter dans le champ Agenda
+         Pour tout RendezVousEnCours de tabRendezVous
+         	// Ajout dans l'agenda
+         	AgendaAjouteRendezVous(AGD_Agenda,RendezVousEnCours)	
+         FIN
+         
+         // Message à l'utilisateur
+         Info(<§$0002§>)
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2b0bc2e726690ecd
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAAC7/aL5GXbONo8Mv7ok75DpI31s/GjNA9uPstMAqDVvr3E8jtizUPHNWMOjdOjGvd43WlqwIFQC1K6NeC0AUD4UHeFkq+WM+Gh0/hLM9jIY6rtZqINay+bXkPhddLchl0SF5VfBwjsKItTmB1w=
+     code : |1+
+      // Variables globales
+      sFichierSauvegarde	est une chaine
+      
+      // Construction du nom de fichier de sauvegarde
+      sFichierSauvegarde = fRepExe()+["\"]+"sauvegarde.xml"
+      
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1b0bc2c7000c90b8
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text :
+      fr-FR : Sauvegarde réalisée
+     index : 0
+   -
+     text :
+      fr-FR : Aucune sauvegarde n'est disponible
+     index : 1
+   -
+     text :
+      fr-FR : Chargement terminé
+     index : 2
+   -
+     text :
+      fr-FR : Voulez-vous supprimer le contenu actuel de l'agenda avant d'importer la sauvegarde ?
+     index : 3
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_PRINCIPALE.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

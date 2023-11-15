@@ -1,0 +1,91 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Manipulation du champ Agenda
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAADY3KKfCQa73IPGBkhi8DZMBB/jI7jCGPd+lTqrEHfGOWS5rFTJ+Fo3OVGI1aDlauBE03o+HEEhk2i/D0254yIWgwDlQXQPoFjB4LgtTDinszqrL2iJXSJLCdcICmFB0nysGu5LqTY0aK/YVd/cXcirfFE6EjelkORaWpEEN/BcO+8XJUTE8ti7jSrUGEOwOldxhVMEUCJtfMV6ADB/BrWIJ6auMZO/EvUvABrungq1Q4wdwDv/i5wCgo4oMMWrt86fywGSleLdWoUcLU+ftSO1XIuA05pW5lOcn9IxqtVXtrI5rNl0HXFEYWA//V/tilrj+KX4kKauM2HDhftFsgK53Ak8Frd3G/+NH38983piRCH27RucOxuC7PMRk1EDNYtPDTbW9MfWPcZ/HoeUszrEkHk3GuM/giFCahzpPFGbpKEy6z8fl4ZaetWY2Ude7M07XTAQlgvVz3/MY+MQwoMlzxmC7EwOzp6IftUYT7qJEjztPdWS+Pupe5XGw4fojnHO8A6saknRKCManRn4gGkfWCBi3VamFBjeJm6uVxSMxxUJqU7rZPlgVkBB3K+6zq8xpXaZOlx6yHpvtALf4Z1TevShRk9/Nc4OCBeA+lxMiPl5jw1jkqEaOG/fo28FjjCJWQNFGG+ItDYhAOykaYLf7LbTS2UugPg/0trP2SXWDvnCWvTzOL1PnzVArb9zj3sAck0gTrhCZ09UHApL760jmycysjY/lfyQt7xDb8NfHuvDHv4QOQjY6SbO9NU3I6AStS2spg9xHLsDJ/NylGQXryznzoOYs0UXRPaYvw6QlKA/dkm3Nmh3D24mckUHSnDnEDtXzsZbQ5nuk1X9hyEuhmj1Gmp3E92twSihXJ98nWKdjdTlOtRHTugA3iQPXnfPIShk78feUvGwBTv8G6jvtEJs4u06octf2HF9zSM6EDp9dsiBd35Cir+uBNNl3xaXRVnJ4DalpBcMYFaqNe5n9ooE2a2qdZvK20zGIoQj+V4Pm1VUafejeIGvbhL2la7ZxIDIPTimsrBw66wNPlCWJKUizTM18b28LcFeJSxGIXxPi3CnYNA0QYT6Mkk/j4kISBM1cmYJ5/fmGsDo9Oyg4x2RRwk7eIyPScdrPONROcVdrV9tQ9mubDko+TnRnSbSOfP9OMxd1akAKozDoHpU4rBh2dIz9lZLGlpPUnTaJdPs465PlBZup1HvXWOH/ij2ayzx0dxbpZzv5fEMxGTthWCPM+jbU2vsyKVYXk8+O2vxrsbQZUiv46E4Rja4G3jGEJ6DKhHWc8NpYURLpRwdBh1pQKv0TY9oozPEbOxc/TYVUAAQv/3RgBZNG+/FtxhPDWmyvWv0YLLLPJ0sdfdovSuaT6EOg3lmiXhtJstkYiM0s3g32KS8g9EPJdx0SUv8V7McX63ecGWyOmuouigxGz7XRxYkyvD9JYAFSc0usVyh0HbKNtOiSgTVmtvtthOmB/rSMsL+O03NaOTqNhPaGDU1dLFTvrXHt+Lc/5TR8FwuZcgEETYwroEOhD8xb2MIazI/emm3A4MI0RizTuJgl0W6Nc0oKBfvxt5jNE7f2Rn5tCqL195r1/DkcMspg7/tqDlmimwrqeobX9rKOrtjMvi/ZCaY/eI/cM5gino6dkjkOr4jF+9Df8ajL4/J/rUGobnbetHOiy7RPH8nleRK9LDO7tfadQdn4TlU0Gm/d/JwsfTrHZz/ypvKM4Q09m8jCEJo+4y9tGRiFb7gkLaKgR/9PKkqKhh7TYxP3Ihs7fHbmYPlOkQRQmXXwJz1djmMraISKDciVQjTWX4p8N9KpN7QmtJIAo4KWb7sFvN1SVtTH/cOmOmrQi2dR2BOHwMOTp01Vmlzi1ddagbPzW+O2LPcQ6pqP4fYpoGyP5cFWoY3hTUtSJHk2cJfDhrgltp8NjMAF2ZobB6ZD7cQkL5S6zL1dViXghDk58vCAbUJyElzqvAV8nLyo+brXPGGYFB6jg3w60A2GtxA5kFCJa/+CMhO4TZ6FyrehmEMXoh28A9d47Z/KayBcyg3/SfHFqeaeFQqat62mnA=
+ configurations :
+  -
+    name : WD Manipulation du champ Agenda
+    internal_properties : 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
+    configuration_id : 12575663439700119588
+    type : 1
+    generation_name : WD Manipulation du champ Agenda.exe
+    version :
+     version : VI200027
+     autoincrement_version : false
+    icon_filename : .\agenda.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAASepqmGz4BRiTjxDoLrLXR/JaZUSnH+V64gt0gygc6/OUMf2tjmqO5kGA8G61cvwMS5M69R2Bl2913
+ elements :
+  identifier : 0x4b0bc26300020970
+  elements :
+   -
+     name : TEST_PRINCIPALE
+     identifier : 0x4b0bdd14000c4dc2
+     internal_properties : CAAAAAgAAADwTih0s+jA2+RnhtmPu3FIju3FLS3+LiWJ3BbLQ9ywQLAiI+Ej3RgSwXtlU9MN9evVXQ==
+     physical_name : .\TEST_PRINCIPALE.wxt
+     type : 17
+   -
+     name : FEN_FICHE_RENDEZVOUS
+     identifier : 0x4b0bc495000a9e01
+     internal_properties : CAAAAAgAAACLh/OXFFHZgk0Qq86cYQD3fVzE3Ow1irFJ7C67ca7s1CyEv8VO6isnKhSOaiqmUkaOlg==
+     physical_name : .\FEN_FICHE_RENDEZVOUS.wdw
+     type : 2
+   -
+     name : FI_WinDevVueRDV
+     identifier : 0x4ed4bbb7000e3714
+     internal_properties : CAAAAAgAAAA2HB4CoZ6WmaYl8Lc1W0suZMcjO4eg4LuJ/Arn2zTgaES6R021Q4L8/zmjHeUb59kjIw==
+     physical_name : .\FI_WinDevVueRDV.wdw
+     type : 8
+   -
+     name : FEN_PRINCIPALE
+     identifier : 0x4b0bc2e9000815cf
+     internal_properties : CAAAAAgAAAC5mxfzzPnvJKpZGzy75BdKLhTSo0rulU1FoWXcaQLNCvFVd/j/V7LOhAaHMBP3QKu8
+     physical_name : .\FEN_PRINCIPALE.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAAApkgevRvmDU6/RUtmNxFsS/938ktLs82ZxkRRY96agSdioZXSuFmmvFEuv+uoEc7e4XfVjvy1DybBxqVcvM6te6JmqgDpWwAE=
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Manipulation du champ Agenda
+     identifier : 0x4b0bc2630003099f
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
